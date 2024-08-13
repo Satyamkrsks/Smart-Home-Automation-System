@@ -1,10 +1,9 @@
 <div align='center'>
-  <img src='../images/alexa.png' width='400'>
+  <img src='../images/mix1.jpg' width=600>
 </div>
 
-## 💠 Alexa Skills Kit
+## Project Preview
 
-<ul>
-  <li>Alexa provides a set of built-in capabilities, referred to as skills. For example, Alexa's abilities include playing music from multiple providers, answering questions, providing weather forecasts, and querying Wikipedia.</li><br>
-  <li>Above zip files holds both hindi and english alexa skill files which includes firebase and index.js.</li>
-</ul>
+🟢 [Click Here to download APK](https://github.com/abhijain2472/IoT-Smart-Home-Automation/raw/master/APK/Home%20Automation.apk) 📲 (PIN: 123456)
+<br><br>
+🟢 [Click Here to go to website](https://iottest-7498a.firebaseapp.com) 🖥️ (PIN: 123456)
