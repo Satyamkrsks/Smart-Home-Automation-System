@@ -1,9 +1,12 @@
 <div align='center'>
-  <img src='../images/mix1.jpg' width=600>
+  <img src='../images/df.png' width='400'>
 </div>
 
-## Project Preview
+## 🎙️ Google Dialogflow
 
-🟢 [Click Here to download APK](https://github.com/abhijain2472/IoT-Smart-Home-Automation/raw/master/APK/Home%20Automation.apk) 📲 (PIN: 123456)
-<br><br>
-🟢 [Click Here to go to website](https://iottest-7498a.firebaseapp.com) 🖥️ (PIN: 123456)
+<ul>
+  <li>Dialogflow is an end-to-end, build-once deploy-everywhere development suite for creating conversational interfaces for websites, mobile applications, popular messaging platforms, and IoT devices.
+</li><br>
+  <li>Above zip files holds both hindi and english dialogflow agent files which includes index.js and you can directly import these in dialogflow.</li><br>
+  <li>Note: You have to upload index.js file to Firebase Functions</li>
+</ul>
